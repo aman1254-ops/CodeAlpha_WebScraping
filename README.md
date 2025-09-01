@@ -35,5 +35,4 @@ The script generates a CSV file with real-time weather information in tabular fo
 ## 👨‍💻 Author
 - Name: **Aman Ranakoti**  
 - Internship: **CodeAlpha - Python Programming Internship**  
-- Task: **Task 1 - Weather Scraper Project**
-- 
+- Task: **Task 1 - Weather Scraper Project** 
